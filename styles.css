@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+}
+h2,
+p {
+  margin-left: 23rem;
+  margin-top: 3rem;
+}
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 800;
+}
+.btn {
+  height: 6rem;
+  width: 6rem;
+  border: 2px solid black;
+  margin-top: 5rem;
+  padding-left: 8rem;
+  cursor: pointer;
+}
+
+.main {
+  margin-left: 20rem;
+}
+#first {
+  background-color: rgb(238, 58, 58);
+}
+#second {
+  background-color: rgb(56, 182, 67);
+}
+#third {
+  background-color: coral;
+}
+#fourth {
+  background-color: rgb(153, 30, 96);
+}
